@@ -6,7 +6,7 @@ $_SESSION = array();
 
 session_destroy();
 
-header("Location: dashBoard.php");
+header("Location: index.php");
 
 exit;
 
